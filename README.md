@@ -24,6 +24,6 @@ To perform any powerbi projects I believe that we must go through 9 major steps 
   
      
 6.  Interactivity and navigation
- 7.      esting
+ 7.      Testing
 8. Sharing
 9. Maintenance and refresh
